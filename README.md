@@ -87,37 +87,9 @@
 
 <!-- ================= GITHUB STATS ================= -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<a href="https://github.com/anupnaik07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupnaik07&show_icons=true&theme=tokyonight&hide_border=true" alt="Anup's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/anupnaik07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=anupnaik07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupnaik07&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
+![](https://github-readme-stats.shion.dev/api?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AjitM07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ================= TROPHIES ================= -->
 
