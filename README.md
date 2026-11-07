@@ -64,23 +64,24 @@
 
 ## 🌐 Connect With Me
 
+
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-<a href="https://instagram.com/anup_n_07">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/@anupnaik620">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/anupnaik07">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/anupnaik07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://instagram.com/anup_n_07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/@anupnaik620">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/anupnaik07">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/anupnaik07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
 
 ---
 
@@ -88,17 +89,21 @@
 
 ## 📊 GitHub Statistics
 
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupnaik07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupnaik07&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=anupnaik07&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="70%" src="https://streak-stats.demolab.com?user=anupnaik07&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
@@ -106,23 +111,13 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anupnaik07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+<h2 align="center">🏆 GitHub Achievements</h2>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anupnaik07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+</p>
 
----
-
-<!-- ===================== VISITORS ===================== -->
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anupnaik07&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
-
-</div>
 
 ---
 
