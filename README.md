@@ -117,17 +117,7 @@
 
 <!-- MOST USED LANGUAGES -->
 
-<h2 align="center">💻 Most Used Languages</h2>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=anupnaik07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-width="60%"
-alt="Anup Naik Most Used Languages"
-/>
-
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anupnaik07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ================= PROFILE VISITORS ================= -->
 
