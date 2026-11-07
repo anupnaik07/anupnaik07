@@ -1,22 +1,139 @@
-<h1 align="center">Hi 👋, I'm Anup Naik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupnaik07&label=Profile%20views&color=0e75b6&style=flat" alt="anupnaik07" /> </p>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupnaik07" alt="anupnaik07" /></a> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ANUP%20NAIK&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Anup+Naik;Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Ideas+Into+Reality;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 👋 Hi, I'm **Anup Naik**.
+- 🌍 I'm a developer from **India**.
+- 💻 Passionate about Frontend Development.
+- 🚀 Interested in building creative and useful projects.
+- 🌱 Exploring new technologies and improving my coding skills.
+- 🧠 Believe in learning by building real-world projects.
+- 🎯 My goal is to become a skilled software developer.
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
 <p align="left">
-<a href="https://instagram.com/anup_n_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anup_n_07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anupnaik620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anupnaik620" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anupnaik07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anupnaik07" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌐 Web Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupnaik07&show_icons=true&locale=en&layout=compact" alt="anupnaik07" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,django" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupnaik07&show_icons=true&locale=en" alt="anupnaik07" /></p>
+### 🗄️ Database & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupnaik07&" alt="anupnaik07" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode,figma" />
+</p>
+
+### 📊 Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/anup_n_07">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/@anupnaik620">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/anupnaik07">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/anupnaik07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupnaik07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=anupnaik07&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anupnaik07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+
+</div>
+
+---
+
+<!-- ===================== VISITORS ===================== -->
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anupnaik07&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+**Thanks for visiting my profile! Let's connect and build something amazing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+
+</div>
