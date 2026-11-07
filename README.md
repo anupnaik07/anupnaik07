@@ -121,15 +121,11 @@
 
 <div align="center">
 
-<a href="https://github.com/anupnaik07">
-
 <img
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&langs_count=8"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=anupnaik07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
 width="60%"
-alt="Anup Naik - Most Used Languages"
+alt="Anup Naik Most Used Languages"
 />
-
-</a>
 
 </div>
 
