@@ -115,19 +115,23 @@
 
 <br/>
 
-<!-- Most Used Languages -->
+<!-- MOST USED LANGUAGES -->
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=anupnaik07&theme=tokyonight&hide_border=true&layout=compact"
-    width="60%"
-    alt="Anup's Most Used Languages"
-  />
-</p>
+<h2 align="center">💻 Most Used Languages</h2>
+
+<div align="center">
+
+<a href="https://github.com/anupnaik07">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  width="60%"
+  alt="Anup's Most Used Languages"
+/>
+
+</a>
 
 </div>
-
----
 
 <!-- ================= PROFILE VISITORS ================= -->
 
