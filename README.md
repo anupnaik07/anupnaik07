@@ -84,7 +84,6 @@
 </p>
 
 ---
-
 <!-- ================= GITHUB STATS ================= -->
 
 
@@ -94,17 +93,22 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.shion.dev/api?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=anupnaik07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="80%" alt="GitHub Statistics"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anupnaik07&theme=dark&hide_border=false" width="80%" alt="GitHub Streak"/>
+</p>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=AjitM07&theme=dark&hide_border=false" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anupnaik07&theme=dark&hide_border=false&layout=compact" width="60%" alt="Top Languages"/>
+</p>
 
 </div>
+
+---
+
 
 ---
 
