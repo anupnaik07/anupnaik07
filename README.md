@@ -87,9 +87,27 @@
 
 <!-- ================= GITHUB STATS ================= -->
 
-![](https://github-readme-stats.shion.dev/api?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AjitM07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.shion.dev/api?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com/?user=AjitM07&theme=dark&hide_border=false" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+</div>
+
+---
+
 
 
 <!-- ================= PROFILE VISITORS ================= -->
