@@ -84,35 +84,50 @@
 </p>
 
 ---
-<!-- ================= GITHUB STATS ================= -->
 
-
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB STATISTICS ================= -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=anupnaik07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="80%" alt="GitHub Statistics"/>
-</p>
+<!-- GitHub Stats -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anupnaik07&theme=dark&hide_border=false" width="80%" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.shion.dev/api?username=anupnaik07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    width="80%"
+    alt="Anup's GitHub Statistics"
+  />
 </p>
 
+<br/>
+
+<!-- GitHub Streak -->
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anupnaik07&theme=dark&hide_border=false&layout=compact" width="60%" alt="Top Languages"/>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=anupnaik07&theme=tokyonight&hide_border=true"
+    width="80%"
+    alt="Anup's GitHub Contribution Streak"
+  />
+</p>
+
+<br/>
+
+<!-- Most Used Languages -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=anupnaik07&theme=tokyonight&hide_border=true&layout=compact"
+    width="60%"
+    alt="Anup's Most Used Languages"
+  />
 </p>
 
 </div>
 
 ---
-
-
----
-
-
 
 <!-- ================= PROFILE VISITORS ================= -->
 
