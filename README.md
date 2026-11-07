@@ -124,9 +124,9 @@
 <a href="https://github.com/anupnaik07">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  width="60%"
-  alt="Anup's Most Used Languages"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=anupnaik07&layout=compact&theme=tokyonight&langs_count=8"
+width="60%"
+alt="Anup Naik - Most Used Languages"
 />
 
 </a>
