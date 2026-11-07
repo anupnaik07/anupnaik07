@@ -91,17 +91,6 @@
 ![](https://streak-stats.demolab.com/?user=AjitM07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AjitM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ================= TROPHIES ================= -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anupnaik07&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="90%" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 <!-- ================= PROFILE VISITORS ================= -->
 
